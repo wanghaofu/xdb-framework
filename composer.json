@@ -1,0 +1,17 @@
+{
+    "name": "common/xdb",
+    "description": "xdb Is a Lightweight ORM library",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Silo\\": "src"
+        }
+    },
+    "require": {}
+}
